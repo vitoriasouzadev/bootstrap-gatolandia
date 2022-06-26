@@ -1,0 +1,45 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(252, 57, 148) !important;
+}
+
+.navbar-brand{
+    padding-left: 40px;
+ }
+
+.quem-somos {
+    background-color: rgb(114, 241, 135) !important;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+
+}
+
+.racoes{
+    background-color: rgb(112, 88, 248) !important;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+.brinquedos{
+    background-color: rgb(133, 21, 167) !important;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: white;
+}
+
+
+.bg-footer{
+    background-color: rgb(252, 57, 148);
+    padding-top: 25px;
+    padding-bottom: 15px;
+    color: white;
+}
